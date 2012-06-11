@@ -1,0 +1,10 @@
+-=-=-=-=-=-=-Roteiro de testes de aceitação-=-=-=-=-=-=-
+
+Este documento tem por objetivo especificar os casos de teste de aceitação a serem executados para assegurar a mínima funcionalidade do sistema, ou seja, o "happy path" de cada use-case.
+
+-acessar página principal
+-cadastrar avaliador
+-cadastrar empresa
+-criar tce/pa
+-ver lista de tce/pa e avaliar tce/pa
+
